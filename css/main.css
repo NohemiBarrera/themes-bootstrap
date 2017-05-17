@@ -43,3 +43,26 @@ h3{
 .list-group-item{
 	margin: 0;
 }
+.slide{
+	display: none;
+	width: 50%;
+	height: 400px;
+}
+#slides{
+	padding: 4em;
+}
+.img-responsive{
+	height: auto;
+}
+p#footer{
+	height: 20px;
+	text-align: center;
+	width: 100%;
+}
+footer {
+  text-align: center;
+  height: 70px;
+  background: #000;
+  color: white;
+  padding-top: 20px;
+}
